@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salvatore Pascale</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🌍 I'm based in **Italy**
 - 🌱 I’m currently learning **Frameworks, Databases, Algorithms and Data Structures**
