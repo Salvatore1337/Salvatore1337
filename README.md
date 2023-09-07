@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Salvatore Pascale
+- 🌍 I'm based in Europe
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning and expanding my knowledge of: Java, Spring Boot, Databases, Algorithms and Data Structures
 - 📫 You can contact me at sal.pascale28@gmail.com
