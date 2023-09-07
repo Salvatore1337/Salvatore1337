@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Backend Developer</h3>
 
 - 🌍 I'm based in **Italy**
-
 - 🌱 I’m currently learning **Frameworks, Databases, Algorithms and Data Structures**
-
+- 🤝  I'm open to collaborating on interesting projects
 - 📫 You can contact me at **sal.pascale28@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
